@@ -1,6 +1,5 @@
 // Some line of code
-// Another line of code
-// Many lines of code:
+// Delete the line below, change this line, and add line in the end
 // .
 // .
 // .
@@ -8,3 +7,4 @@
 // .
 // .
 // End of file
+// The line above me isn't true!
